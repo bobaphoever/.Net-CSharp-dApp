@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "My .Net App": {
+      "commandName": "Project",
+      "commandLineArgs": "0xf357bc949aAdF924182f80d8575362A67E311416 1"
+    }
+  }
+}
