@@ -19,7 +19,7 @@ namespace ConsoleDemo
             // Setup Moralis Client
             MoralisClient.ConnectionData = new Moralis.Models.ServerConnectionData()
             {
-                ApiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImM5NWRmMzc5LWNmOGEtNGY4Yy04YjA2LTYxYzE1MTgzOTJjZiIsIm9yZ0lkIjoiMzgwODQ0IiwidXNlcklkIjoiMzkxMzMzIiwidHlwZUlkIjoiYWJmN2JlNmItZjkxNi00ZDM3LWJjNmEtMGFhNDQyZTVjMTk1IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MDkzNTM5MzMsImV4cCI6NDg2NTExMzkzM30.JaIyaoOBhkgAIkIotGI0uK2t7PhaMhc_o1yUtHdyNVk"
+                ApiKey = "YOUR MORALIS WEB3API KEY"
             };
 
             Task.Run(async () =>
